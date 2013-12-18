@@ -1,0 +1,26 @@
+{
+  "name": "connect_t",
+  "version": "0.0.1",
+  "description": "just fucking around with connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doron2402/connect_testing.git"
+  },
+  "keywords": [
+    "node.js",
+    "connect"
+  ],
+  "author": "Doron Segal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/doron2402/connect_testing/issues"
+  },
+  "homepage": "https://github.com/doron2402/connect_testing",
+  "dependencies": {
+    "connect": "~2.12.0"
+  }
+}
